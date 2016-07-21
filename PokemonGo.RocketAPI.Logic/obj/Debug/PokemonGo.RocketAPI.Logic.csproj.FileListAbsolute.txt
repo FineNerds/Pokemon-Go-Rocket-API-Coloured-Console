@@ -1,0 +1,18 @@
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\PokemonGo.RocketAPI.Logic.dll
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\PokemonGo.RocketAPI.Logic.pdb
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\Google.Protobuf.dll
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\Pokemon Go Rocket API.dll
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\S2Geometry.dll
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\System.VarintBitConverter.dll
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\C5.dll
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\Pokemon Go Rocket API.pdb
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\Google.Protobuf.xml
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\S2Geometry.xml
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\bin\Debug\C5.xml
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\obj\Debug\PokemonGo.RocketAPI.Logic.csprojResolveAssemblyReference.cache
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\obj\Debug\PokemonGo.RocketAPI.Logic.dll
+C:\Users\FineNerds\Documents\GitHub\Pokemon-Go-Rocket-API\PokemonGo.RocketAPI.Logic\obj\Debug\PokemonGo.RocketAPI.Logic.pdb
